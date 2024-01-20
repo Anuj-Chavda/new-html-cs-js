@@ -1,15 +1,15 @@
-# new-html-cs-js
+# HTML CSS JavaScipt
 this is repository that I am making , I am new to all git , GitHub, html, CSS and JavaScript to check my skills and my knowledge
 
 
 
-Learning Programming Repo
+# Learning Programming Repo
 Welcome to my learning journey in the vast and exciting world of programming! 🚀 As a newcomer to this dynamic field, I've decided to document my progress and showcase my projects on this Git repository. This space serves as a testament to my dedication to learning, exploring, and growing as a programmer.
 
-About Me
+# About Me
 Hello, world! 👋 I'm Anuj Chavda, and I am diving headfirst into the realm of programming. My background may not be steeped in code, but I'm determined to change that. This repository is a living testament to my humble beginnings and my aspirations to become proficient in various programming languages and technologies.
 
-Goals
+# Goals
 Learn Git and GitHub: Understand version control and collaboration in a team environment.
 HTML, CSS, and JavaScript Mastery: Build a solid foundation for web development.
 Java Exploration: Delve into Java to grasp the fundamentals of object-oriented programming.
